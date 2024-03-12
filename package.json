@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@t3-oss/env-nextjs": "^0.9.2",
+    "@tailwindcss/postcss": "next",
     "@tanstack/react-query": "^4.36.1",
     "@trpc/client": "^10.45.1",
     "@trpc/next": "^10.45.1",
@@ -36,7 +37,7 @@
     "postcss": "^8.4.34",
     "prettier": "^3.2.5",
     "prettier-plugin-tailwindcss": "^0.5.11",
-    "tailwindcss": "^3.4.1",
+    "tailwindcss": "next",
     "typescript": "^5.3.3"
   },
   "ct3aMetadata": {
